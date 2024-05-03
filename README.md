@@ -1,5 +1,5 @@
 
-output link: srikarjobbyapp.ccbp.tech
+---> output link: srikarjobbyapp.ccbp.tech <-----
 
 
 In this project, let's build a **Jobby App** by applying the concepts.
